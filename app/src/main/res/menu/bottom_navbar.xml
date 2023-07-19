@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Explore"
+        android:icon="@drawable/ic_explore"
+        android:id="@+id/exploreBtn"
+        />
+    <item android:title="Network"
+        android:icon="@drawable/ic_network"
+        android:id="@+id/networkBtn"/>
+    <item android:title="Chat"
+        android:icon="@drawable/ic_chat"
+        android:id="@+id/chatBtn"/>
+    <item android:title="Contacts"
+        android:icon="@drawable/ic_contacts"
+        android:id="@+id/contactBtn"/>
+    <item android:title="Hashtags"
+        android:icon="@drawable/ic_hashtags"
+        android:id="@+id/hashtagBtn"/>
+</menu>

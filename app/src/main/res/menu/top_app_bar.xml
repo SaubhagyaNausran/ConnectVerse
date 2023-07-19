@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Refine"
+        android:id="@+id/refineBtn"
+        android:icon="@drawable/ic_refine"
+        app:showAsAction="ifRoom"/>
+
+    <item android:title="Text"
+        android:id="@+id/welcomeTxt"
+        app:showAsAction="ifRoom"/>
+
+    <item android:title="abcd"
+        android:id="@+id/menuBtn"
+        android:icon="@drawable/ic_menu"
+        app:showAsAction="ifRoom"/>
+</menu>
