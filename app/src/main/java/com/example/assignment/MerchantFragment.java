@@ -109,25 +109,25 @@ public class MerchantFragment extends Fragment {
         itemsofcardviewArrayList = new ArrayList<>();
 
         name = new String[]{
-                "Ethan",
-                "Daniel",
-                "Olivia",
-                "Isabella",
-                "Samuel",
-                "Emma",
-                "Noah",
-                "Charlotte",
+                "Bike Mania",
+                "Hope Clinic",
+                "Fauget",
+                "Bake House",
+                "EL Union",
+                "Liceria",
+                "Scissors",
+                "Plus Plus",
         };
 
         address = new String[]{
-                "Bangalore | Student",
-                "Chandigarh | Fresher",
-                "Noida | Software Developer",
-                "Delhi | Fresher",
-                "Gurgaon | Software Tester",
-                "Pune | Student",
-                "Mumbai | Manual Testing",
-                "Bangalore | Student",
+                "Bike Rentals | Bangalore",
+                "Clinic | J.P Nagar",
+                "Grocery Store | Jaya Nagar",
+                "Bakery| BTM Layout",
+                "Pub | Indranagar",
+                "Taxi | HSR Layout",
+                "Barber | Electronic City",
+                "Pharmacy | Whitefield",
 
 
         };
@@ -146,41 +146,41 @@ public class MerchantFragment extends Fragment {
         };
 
         bio = new String[]{
-                "Coffee | Business | Friendship",
-                "Coffee | Business | Hobbies",
-                "Coffee | Business | Movies",
-                "Coffee | Business | Friendship",
-                "Coffee | Business | Friendship",
-                "Coffee | Business | Friendship",
-                "Coffee | Business | Friendship",
-                "Coffee | Business | Friendship",
+                "Need a rental motorbike",
+                "Your health is our priority",
+                "Enjoy healthy fruits",
+                "Find Your Better Taste Experience",
+                "Monday pub quiz night",
+                "We offer the best price",
+                "Haircut & Treatment",
+                "Medications for cure ",
 
 
         };
 
         description = new String[]{
-                "Hi community! I am open to new connections",
-                "Hi community! I am open to new connections",
-                "Hi community! I am open to new connections",
-                "Hi community! I am open to new connections",
-                "Hi community! I am open to new connections",
-                "Hi community! I am open to new connections",
-                "Hi community! I am open to new connections",
-                "Hi community! I am open to new connections",
+                "Facilitated bike rentals for convenient transportation and exploration",
+                "Provided expert medical care and personalized treatment at the clinic",
+                "Offered a wide selection of fresh produce and household essentials at the grocery store",
+                "Delighted customers with freshly baked goods and scrumptious treats at the bakery",
+                "Provided a vibrant atmosphere and a diverse selection of beverages at the pub",
+                "Offered reliable and efficient taxi services for hassle-free transportation",
+                "Provided top-notch grooming services and stylish haircuts at the barber shop",
+                "Essential medications and professional pharmaceutical services at the pharmacy",
 
 
         };
 
 
         profileImageResourceId = new int[]{
-                R.drawable.profile2,
-                R.drawable.profile3,
-                R.drawable.profile1,
-                R.drawable.profile5,
-                R.drawable.profile4,
-                R.drawable.profile6,
-                R.drawable.profile2,
-                R.drawable.profile1,
+                R.drawable.bikerental,
+                R.drawable.doctor,
+                R.drawable.grocery,
+                R.drawable.bakery,
+                R.drawable.pub,
+                R.drawable.taxi,
+                R.drawable.barber,
+                R.drawable.pharmacy,
 
 
         };
